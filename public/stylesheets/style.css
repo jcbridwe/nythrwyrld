@@ -1,9 +1,14 @@
-body {
+/*body {
   padding: 50px;
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
   background-color: #e6e6ff;
-}
+}*/
 
 a {
   color: #00B7FF;
+}
+
+.intro-header {
+  max-width: 100%;
+  max-height: 350px;
 }
