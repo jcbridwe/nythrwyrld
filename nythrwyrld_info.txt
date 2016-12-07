@@ -1,0 +1,20 @@
+NythrWyrld Data
+Github
+Agent pid: 8448
+Key passphrase: cthulu_666
+Your identification has been saved in /c/Users/jbridwel/.ssh/id_rsa.
+Your public key has been saved in /c/Users/jbridwel/.ssh/id_rsa.pub.
+The key fingerprint is:
+SHA256:uusZoQ+cJM8Dtg7i9WxqrNa/bjM4ppMRwtAfDKnfs24 jcbridwe@gmail.com
+The key's randomart image is:
++---[RSA 4096]----+
+| ..+             |
+|. o o            |
+|o. . .           |
+|oo  .            |
+|..=.. . S        |
+| o.Ooo o         |
+|o *.Xoo          |
+|o*.BEO +         |
+|.+B+OBX.         |
++----[SHA256]-----+
